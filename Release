@@ -1,0 +1,9 @@
+Origin: xSYDx's Repo
+Label: xSYDx's Repo
+Suite: stable
+Version: 1.0
+Codename: xSYDx
+Architectures: iphoneos-arm
+Componets: main
+Description: xSYDx's Repo.
+MD5Sum:
