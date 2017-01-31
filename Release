@@ -1,8 +1,7 @@
-Origin: xSYDx's Repo
-Label: xSYDx's Repo
-Suite: stable
-Version: 1.0
-Codename: xSYDx
+Origin: King's Repo
+Label: stable
+Suite: 10.4
+Codename: King
 Architectures: iphoneos-arm
-Componets: main
-Description: xSYDx's Repo.
+Components: main
+Description: A Test Repo thats slowly growing
