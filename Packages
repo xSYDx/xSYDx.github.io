@@ -2,7 +2,6 @@ Package: indigo9
 Version: 1.0
 Priority: optional
 Maintainer: xSYDx
-Depends: 
 Architecture: iphoneos-arm
 Filename: ./debs/indigio9.deb
 Size: 7959168
