@@ -1,0 +1,8 @@
+Package: noctis
+Name: Noctis
+Version: 1.7.4.1
+Architecture: iphoneos-arm
+Description: Dark mode for ios 10
+Section: Tweaks
+Author: xSYDx <sidkskyl1n3@gmail.com>
+Maintainer: xSYDx <sidskyl1n3@gmail.com>

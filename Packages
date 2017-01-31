@@ -12,3 +12,18 @@ Description: Indigo IOS 9 for 9 & 10
 Author: xSYDx <sidkskyl1n3@gmail.com>
 Depiction: https://xsydx.github.io/depic/indigo9/index.html
 Name: Indigo IOS 9
+
+Package: noctis
+Version: 1.7.1.4
+Architecture: iphoneos-arm
+Maintainer: xSYDx <sidskyl1n3@gmail.com>
+Filename: debs//noctis.deb
+Size: 297968
+MD5sum: 22f61a46b5ef7674eef4cb57969e396b
+SHA1sum: 00e442986487eaebaf4f2e07ebd25d2ff1727204
+SHA256sum: 0c2c98c19a282492fedaa4f8411eec77a6cd856a5303f319e61f145d306f2470
+Section: Tweaks
+Description: Dark mode for ios 10
+Author: xSYDx <sidkskyl1n3@gmail.com>
+Depiction: https://xsydx.github.io/depic/indigo9/index.html
+Name: Noctis
