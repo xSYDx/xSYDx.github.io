@@ -1,10 +1,10 @@
-Package: com.hiko.indigoios9
+Package: indigo9
 Version: 1.0
 Priority: optional
 Maintainer: xSYDx
 Depends: 
 Architecture: iphoneos-arm
-Filename: ./debs/com.hiko.indigoios9_1.0_iphoneos-arm.deb
+Filename: ./debs/indigio9.deb
 Size: 7959168
 MD5sum: 9F3F04EDBD0913732424859CD3D9BCDF
 SHA1: 8DBE846E8833BC625C50EE0F5C903A560EDE1951
