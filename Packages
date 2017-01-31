@@ -3,7 +3,7 @@ Version: 1.0
 Priority: optional
 Maintainer: xSYDx
 Architecture: iphoneos-arm
-Filename: ./debs/indigio9.deb
+Filename: debs//indigio9.deb
 Size: 7959168
 MD5sum: 9F3F04EDBD0913732424859CD3D9BCDF
 SHA1: 8DBE846E8833BC625C50EE0F5C903A560EDE1951
