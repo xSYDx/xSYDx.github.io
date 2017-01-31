@@ -1,16 +1,14 @@
-Package: com.atrocity.roundification
-Version: 0.0.1-6
+Package: com.xsydx.indigoios9
+Version: 1.0
 Priority: optional
-Section: Tweaks
-Maintainer: zachatrocity <zachatrocity@gmail.com>
-Depends: mobilesubstrate
+Section: Themes
+Maintainer: xsydx <sidskyl1n3@gmail.com>
+Depends:
 Architecture: iphoneos-arm
-Filename: ./debs/com.atrocity.roundification_0.0.1-6-1_iphoneos-arm.deb
-Size: 8000
-MD5um: 367629a5ddea2969bcdce9decd4523f3
-SHA1: 06f6ceb222ec2be186c9ae3fbe81eca8f9335e58
-SHA256: 0b7af535c00fc710aff6d66d2890eacb900dfea623e484c46690a9575b1e61cd
-Description: A tweak to make the NC rounded, as well as notification banners.
-Name: Roundification
-Author: zachatrocity <zachatrocity@gmail.com>
-Depiction: http://www.zachatrocity.com/repo/depic/com.atrocity.roundificaion/index.html
+Filename: ./debs/com.xsydx.indigoios9_1.0_iphoneos-arm.deb
+Size: 7058
+MD5sum: 9F3F04EDBD0913732424859CD3D9BCDF
+Description: Indigo IOS 9, a theme project of almost 2 years made by someone who actually gives a damn :D
+Name: Indigo IOS9
+Author: xsydx <sidskyl1n3@gmail.com>
+Depiction: https://github.com/xSYDx/xSYDx.github.io/blob/master/depic/com.xsydx.indigoios9/index.html
