@@ -5,9 +5,7 @@ Maintainer: xSYDx <sidskyl1n3@gmail.com>
 Architecture: iphoneos-arm
 Filename: debs/indigo9.deb
 Size: 7959168
-MD5sum: 5d7cf441a6f11cc0ea29f6a2223f93ef
-SHA1: ecda44465167294b590375dca969cfb81f741822
-SHA256: F6421199D9EB1EF01C0E4BCE958B32532F22796FFF67B3D0F26B6BAEBDBFB461
+MD5sum: 9F3F04EDBD0913732424859CD3D9BCDF
 Section: Themes
 Description: Indigo IOS 9 for 9 & 10
 Author: xSYDx <sidkskyl1n3@gmail.com>
