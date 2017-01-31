@@ -1,15 +1,14 @@
 Package: indigo9
 Version: 1.0
 Priority: optional
-Maintainer: xSYDx
+Maintainer: xSYDx <sidskyl1n3@gmail.com>
 Architecture: iphoneos-arm
-Filename: debs//indigio9.deb
+Filename: debs/indigo9.deb
 Size: 7580000
 MD5sum: 9F3F04EDBD0913732424859CD3D9BCDF
 SHA1: 8DBE846E8833BC625C50EE0F5C903A560EDE1951
 SHA256: B8AECEF38236F8122412C7A57D013984E539B167BC62F2ABE1606B2E470A622E
 Section: Themes
-Description: A tweak to make the NC rounded, as well as notification banners.
-Author: xSYDx
-Name: IndigoIOS9
+Author: xSYDx <sidkskyl1n3@gmail.com>
+Name: Indigo IOS 9
 Depiction: https://xsydx.github.io/depic/b/index.html
