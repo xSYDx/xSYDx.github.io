@@ -2,7 +2,7 @@ Package: com.hiko.indigoios9
 Version: 1.0
 Priority: optional
 Maintainer: xSYDx
-Depends: anemone
+Depends: 
 Architecture: iphoneos-arm
 Filename: ./debs/com.hiko.indigoios9_1.0_iphoneos-arm.deb
 Size: 7959168
@@ -13,4 +13,4 @@ Section: Themes
 Description: A tweak to make the NC rounded, as well as notification banners.
 Author: xSYDx
 Name: IndigoIOS9
-Depiction: https://github.com/xSYDx/xSYDx.github.io/blob/master/depic/com.hiko.indigoios9/index.html
+Depiction: https://github.com/xsydx.github.io/depic/indigo9/index.html
