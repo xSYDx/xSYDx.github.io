@@ -28,15 +28,15 @@ Author: xSYDx <sidkskyl1n3@gmail.com>
 Depiction: https://xsydx.github.io/depic/noctis/index.html
 Name: Noctis
 
-Package: sanity
+Package: sanity_1.5_all
 Version: 1.5
-Architecture: iphoneos-arm
+Architecture: all
 Maintainer: xSYDx <sidskyl1n3@gmail.com>
-Filename: debs//sanity.deb
-Size: 43845990
-MD5sum: 9295298266ef1e2e1f1327f844a2aa38
-SHA1sum: 12b1c7cc10e7dd0a268fc96e902829148eb8c37c
-SHA256sum: 5cc881958bef08a2b439eb1a123c2ee1543a53bb611d5b9945e9e83a1d5a13c9
+Filename: debs//sanity_1.5_all.deb
+Size: 39484362
+MD5sum: 8acbda38555bf034c7abbcf33c9e51ec
+SHA1sum: ce2864ea3e641a9d29bb54a993dce49919647834
+SHA256sum: 3f83dc6c56840cb57b3b6d66857193b795d02b1e97e7860029e7ec9d0d0d43d3
 Section: Themes
 Description: Really interesting theme
 Author: xSYDx <sidkskyl1n3@gmail.com>
