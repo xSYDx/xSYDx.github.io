@@ -42,3 +42,18 @@ Description: simple & flat theme.
 Author: xSYDx <sidkskyl1n3@gmail.com>
 Depiction: https://xsydx.github.io/depic/sanity/index.html
 Name: Sanity
+
+Package: kempii
+Version: 1.0
+Architecture: all
+Maintainer: xSYDx <sidskyl1n3@gmail.com>
+Filename: debs//kempii.deb
+Size: 43845990
+MD5sum: d2311fb0ee3dfde9d26fba2e4eca06c0
+SHA1sum: 8bfe61b51d7152f0556daa75d0d374545031d341
+SHA256sum: 79a81ac1cdb35fa50c8c44c08637867c43ffdb214e37572cf59446439c51de94
+Section: Themes
+Description: A colorful iPhone theme for Anemone by @Sn0wd3n.
+Author: xSYDx <sidkskyl1n3@gmail.com>
+Depiction: https://xsydx.github.io/depic/kempii/index.html
+Name: KempII theme
