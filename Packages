@@ -57,3 +57,18 @@ Description: A colorful iPhone theme for Anemone by @Sn0wd3n.
 Author: xSYDx <sidkskyl1n3@gmail.com>
 Depiction: https://xsydx.github.io/depic/kempii/index.html
 Name: KempII theme
+
+Package: Moviebox
+Version: 3.7
+Architecture: all
+Maintainer: xSYDx <sidskyl1n3@gmail.com>
+Filename: debs//Moviebox.deb
+Size: 22179716
+MD5sum: f01d141417c35797de84049e492bd8e0
+SHA1sum: 042d9371c6a8eade502f31abe5353a8df5c19254
+SHA256sum: 5fae65911d57c8f55e0878f3819548041e2ae4eb87f84d923ee6c67a861299c4
+Section: Apps
+Description: Free Movies & TV shows
+Author: xSYDx <sidkskyl1n3@gmail.com>
+Depiction: https://xsydx.github.io/depic/kempii/index.html
+Name: MovieBox 3.7
