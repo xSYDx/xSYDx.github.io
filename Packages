@@ -28,11 +28,11 @@ Author: xSYDx <sidkskyl1n3@gmail.com>
 Depiction: https://xsydx.github.io/depic/noctis/index.html
 Name: Noctis
 
-Package: sanity_1.5_all
+Package: sanity
 Version: 1.5
 Architecture: all
 Maintainer: xSYDx <sidskyl1n3@gmail.com>
-Filename: debs//sanity_1.5_all.deb
+Filename: debs//sanity.deb
 Size: 39484362
 MD5sum: 8acbda38555bf034c7abbcf33c9e51ec
 SHA1sum: ce2864ea3e641a9d29bb54a993dce49919647834
