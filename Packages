@@ -72,3 +72,18 @@ Description: Free Movies & TV shows
 Author: xSYDx <sidkskyl1n3@gmail.com>
 Depiction: https://xsydx.github.io/depic/moviebox/index.html
 Name: MovieBox 3.7
+
+Package: popcorntime
+Version: 3.0.0
+Architecture: all
+Maintainer: xSYDx <sidskyl1n3@gmail.com>
+Filename: debs//popcorntime.deb
+Size: 54634204
+MD5sum: 7e026eca2df911ffb878b3287801dc95
+SHA1sum: 4c7865925226eb13066761515db57603f59881f6
+SHA256sum: 172b27f784a344d132fc3e88067701402b6dafd5d1891991373e6031573baf08
+Section: Entertainment
+Description: Free Movies & TV shows
+Author: xSYDx <sidkskyl1n3@gmail.com>
+Depiction: https://xsydx.github.io/depic/popcorntime/index.html
+Name: PopcornTime
