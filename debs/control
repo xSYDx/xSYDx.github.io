@@ -1,0 +1,11 @@
+Architecture: all
+Author: xSYDx <sidkskyl1n3@gmail.com>
+Date: Wed, 08 Feb 2017 01:34:37 +0500
+Description: Free Movies & TV Shows
+Installed-Size: 135810
+Maintainer: xSYDx <sidskyl1n3@gmail.com>
+Name: PopcornTime
+Package: popcorntime
+Packager-Version: 1.0.0
+Section: Entertainment
+Version: 3.0.0
