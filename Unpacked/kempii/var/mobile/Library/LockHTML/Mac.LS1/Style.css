@@ -1,0 +1,44 @@
+body{
+	margin:0;
+	padding:0;
+	text-shadow:2px 2px 0px rgba(0,0,0, 0.2);
+	font-weight:100;
+	text-transform:capitalize;
+	color:eeeeee;
+}
+
+@font-face{
+	font-family:Armonioso;
+	src:url(Armonioso.otf);
+}
+@font-face{
+	font-family:Moon;
+	src:url(Moon.otf);
+}
+
+#Calendario{
+       position:absolute; top:46%; left:-18%; width:100%; text-align:right; z-index:50;
+       font-size:6vw;
+	   font-family:Moon;
+	   opacity:0.85;
+}
+#date,#month{}
+
+#weekday{
+       position:absolute; top:36.5%; left:0%; width:100%; text-align:center; z-index:50;
+       font-size:13vw;
+	   font-family:Armonioso;
+}
+
+#Reloj{
+       position:absolute; top:46%; left:18%; width:100%; text-align:left; z-index:50;
+       font-size:6vw;
+	   font-family:Moon;
+	   opacity:0.9;
+}
+#hour,#puntos,#minute,#ampm{}
+
+#H{
+	   position:absolute; top:25%; left:10%; width:80%;z-index:10;
+	   opacity:1.0;
+}
