@@ -93,12 +93,11 @@ Version: 0.1.8
 Architecture: all
 Maintainer: xSYDx <sidskyl1n3@gmail.com>
 Filename: debs//tinybar.deb
-Size: 74156
-MD5sum: 6040478cf685ab462f5e13ac0c6ac334
+Size: 74142
+MD5sum: ba8cb3c91a9c3ac7c30b2b3f68496435
 Section: Tweaks
 Priority: optional
 Depends: mobilesubstrate, preferenceloader, applist
-Breaks: com.alexzielenski.tinybar
 Description: Thins notification banners down to size!
 Author: Alex Zielenski <http://www.alexzielenski.com>
 Depiction: https://xsydx.github.io/depic/tinybar/index.html
