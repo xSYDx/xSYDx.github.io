@@ -87,3 +87,18 @@ Description: Free Movies & TV shows
 Author: xSYDx <sidkskyl1n3@gmail.com>
 Depiction: https://xsydx.github.io/depic/popcorntime/index.html
 Name: PopcornTime
+
+Package: tinybar
+Version: 0.1.8
+Architecture: iphoneos-arm
+Maintainer: xSYDx <sidskyl1n3@gmail.com>
+Filename: debs//tinybar_0.1.8_all.deb
+Size: 74170
+MD5sum: 6ee5c2cca405b56b32c83c26771c89d9
+SHA1sum: 52d6a547fd8ab520b3833835ee6f9f9ff14ae342
+SHA256sum: 755f0966d1e6291721593d19820c652527011019edf55d3abf27aca8003933cf
+Section: Tweaks
+Description: Thins notification banners down to size!
+Author: Alex Zielenski <http://www.alexzielenski.com>
+Depiction: https://xsydx.github.io/depic/tinybar/index.html
+Name: TinyBar
