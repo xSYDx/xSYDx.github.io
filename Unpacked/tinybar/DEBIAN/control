@@ -1,11 +1,11 @@
+Package: tinybar
+Name: TinyBar
+Version: 0.1.8
 Architecture: all
+Description: Thins notification banners down to size!
+Section: Tweaks
 Priority: optional
 Author: Alex Zielenski <http://www.alexzielenski.com>
-Description: Thins notification banners down to size!
 Maintainer: xSYDx <sidskyl1n3@gmail.com>
-Name: TinyBar
-Package: tinybar
-Section: Tweaks
-Version: 0.1.8
 Depends: mobilesubstrate, preferenceloader, applist
 Breaks: com.alexzielenski.tinybar

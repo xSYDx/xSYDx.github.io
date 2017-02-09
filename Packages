@@ -96,10 +96,10 @@ Filename: debs//tinybar.deb
 Breaks: com.alexzielenski.tinybar
 Depends: mobilesubstrate, preferenceloader, applist
 Priority: optional
-Size: 74154
-MD5sum: 3b27e5490b0f55434fc8da9bfaf76154
-SHA1sum: 4d065ca0e316a19576c78b775c472f949e0bb23e
-SHA256sum: 1d4a7eb71bec57f40633f7cad9bff9ffcdfcd5146dbaf0bf935da93285a6967f
+Size: 74156
+MD5sum: 6040478cf685ab462f5e13ac0c6ac334
+SHA1sum: 915fcd66ff220387fd50701263942f5a7a78348c
+SHA256sum: bf3e9e2f2a435fc30c9ac811702d0c585e525fe9270a9fbe417b0f69eca5b7d4
 Section: Tweaks
 Description: Thins notification banners down to size!
 Author: Alex Zielenski <http://www.alexzielenski.com>
