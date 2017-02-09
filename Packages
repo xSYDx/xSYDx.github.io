@@ -93,6 +93,9 @@ Version: 0.1.8
 Architecture: all
 Maintainer: xSYDx <sidskyl1n3@gmail.com>
 Filename: debs//tinybar_0.1.8_all.deb
+Breaks: com.alexzielenski.tinybar
+Depends: firmware (>= 7.0.2), mobilesubstrate, preferenceloader, applist
+Priority: optional
 Size: 74170
 MD5sum: 6ee5c2cca405b56b32c83c26771c89d9
 SHA1sum: 52d6a547fd8ab520b3833835ee6f9f9ff14ae342
