@@ -95,8 +95,6 @@ Maintainer: xSYDx <sidskyl1n3@gmail.com>
 Filename: debs//tinybar.deb
 Size: 74156
 MD5sum: 6040478cf685ab462f5e13ac0c6ac334
-SHA1sum: 915fcd66ff220387fd50701263942f5a7a78348c
-SHA256sum: bf3e9e2f2a435fc30c9ac811702d0c585e525fe9270a9fbe417b0f69eca5b7d4
 Section: Tweaks
 Priority: optional
 Depends: mobilesubstrate, preferenceloader, applist
