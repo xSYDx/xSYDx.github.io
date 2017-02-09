@@ -90,7 +90,7 @@ Name: PopcornTime
 
 Package: tinybar
 Version: 0.1.8
-Architecture: iphoneos-arm
+Architecture: all
 Maintainer: xSYDx <sidskyl1n3@gmail.com>
 Filename: debs//tinybar_0.1.8_all.deb
 Size: 74170
