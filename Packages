@@ -89,10 +89,10 @@ Depiction: https://xsydx.github.io/depic/popcorntime/index.html
 Name: PopcornTime
 
 Package: tinybar
-Version: 1.1
+Version: 0.1.8
 Architecture: all
 Maintainer: xSYDx <sidskyl1n3@gmail.com>
-Filename: debs//tinybar_0.1.8_all.deb
+Filename: debs//tinybar.deb
 Breaks: com.alexzielenski.tinybar
 Depends: mobilesubstrate, preferenceloader, applist
 Priority: optional
