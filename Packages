@@ -102,3 +102,33 @@ Description: Thins notification banners down to size!
 Author: Alex Zielenski <http://www.alexzielenski.com>
 Depiction: https://xsydx.github.io/depic/tinybar/index.html
 Name: TinyBar
+
+Package: M'Lady
+Version: 1.0
+Architecture: all
+Maintainer: xSYDx <sidskyl1n3@gmail.com>
+Filename: debs//M'Lady.deb
+Size: 2377350
+MD5sum: 3a1a81eca1b7dd28393e0054ddfd0702
+SHA1sum: 82bcab7262da17a5cd4cb1a8806987c07679e63f
+SHA256sum: dfdb5debb1bb76295ab7fdad19834875086b3488bcd978f37bee18ddaffcd493
+Section: Themes
+Description: NSFW Theme
+Author: xSYDx <sidkskyl1n3@gmail.com>
+Depiction: https://xsydx.github.io/depic/M_Lady/index.html
+Name: M'Lady
+
+Package: subete-anemone
+Version: 1.7
+Architecture: all
+Maintainer: xSYDx <sidskyl1n3@gmail.com>
+Filename: debs//subete-anemone.deb
+Size: 16553142
+MD5sum: 6472cd9c159a54868bf9a6ac59215667
+SHA1sum: a512febe52f0c2e804bfd671d39300ed654b1431
+SHA256sum: ed3a449fa707fca639f9485c4f275346339610bce7ffb37fbd7f798fb7e7a1d4
+Section: Themes
+Description: Subete theme (Anemone)
+Author: xSYDx <sidkskyl1n3@gmail.com>
+Depiction: https://xsydx.github.io/depic/subete-anemone/index.html
+Name: Subete-Anemone
