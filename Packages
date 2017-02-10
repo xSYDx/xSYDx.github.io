@@ -103,15 +103,15 @@ Author: Alex Zielenski <http://www.alexzielenski.com>
 Depiction: https://xsydx.github.io/depic/tinybar/index.html
 Name: TinyBar
 
-Package: m_lady
+Package: mlady
 Version: 1.0
 Architecture: all
 Maintainer: xSYDx <sidskyl1n3@gmail.com>
-Filename: debs//m_lady.deb
-Size: 2377362
-MD5sum: 4faf339e6a4810e7faad690350c82e3a
-SHA1sum: 07259c073128e5a3f0c96b05353996f6638f55ab
-SHA256sum: 93cb4f03af7a5d0dec1858a43371726b697bbde44f656c85871bd22fe47abf2a
+Filename: debs//mlady.deb
+Size: 2377360
+MD5sum: 1fe325ca745b959901d74c852eeaa14d
+SHA1sum: dfda551c874644e92aa1889dde64ab01a1bcc0d1
+SHA256sum: beb8d3bc2b27bb5209273e7eba01c4d0e0f7a78d4c0786f14314440e1f162700
 Section: Themes
 Description: NSFW Theme
 Author: xSYDx <sidkskyl1n3@gmail.com>
