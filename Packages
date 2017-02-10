@@ -104,19 +104,19 @@ Depiction: https://xsydx.github.io/depic/tinybar/index.html
 Name: TinyBar
 
 Package: mlady
+Name: M'Lady
 Version: 1.0
-Architecture: all
+Architecture: iphoneos-arm
 Maintainer: xSYDx <sidskyl1n3@gmail.com>
-Filename: debs//mlady.deb
 Size: 2377360
-MD5sum: 1fe325ca745b959901d74c852eeaa14d
-SHA1sum: dfda551c874644e92aa1889dde64ab01a1bcc0d1
-SHA256sum: beb8d3bc2b27bb5209273e7eba01c4d0e0f7a78d4c0786f14314440e1f162700
 Section: Themes
 Description: NSFW Theme
 Author: xSYDx <sidkskyl1n3@gmail.com>
+MD5sum: 1fe325ca745b959901d74c852eeaa14d
+SHA1sum: dfda551c874644e92aa1889dde64ab01a1bcc0d1
+SHA256sum: beb8d3bc2b27bb5209273e7eba01c4d0e0f7a78d4c0786f14314440e1f162700
+Filename: debs//mlady.deb
 Depiction: https://xsydx.github.io/depic/M_Lady/index.html
-Name: M'Lady
 
 Package: subete-anemone
 Version: 1.7
