@@ -103,11 +103,11 @@ Author: Alex Zielenski <http://www.alexzielenski.com>
 Depiction: https://xsydx.github.io/depic/tinybar/index.html
 Name: TinyBar
 
-Package: M'Lady
+Package: m_lady
 Version: 1.0
 Architecture: all
 Maintainer: xSYDx <sidskyl1n3@gmail.com>
-Filename: debs//M'Lady.deb
+Filename: debs//m_lady.deb
 Size: 2377350
 MD5sum: 3a1a81eca1b7dd28393e0054ddfd0702
 SHA1sum: 82bcab7262da17a5cd4cb1a8806987c07679e63f
