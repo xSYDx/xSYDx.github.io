@@ -1,11 +1,8 @@
-Architecture: all
-Author: xSYDx <sidkskyl1n3@gmail.com>
-Date: Fri, 10 Feb 2017 14:02:17 +0500
-Description: NSFW Theme
-Installed-Size: 3888
-Maintainer: xSYDx <sidskyl1n3@gmail.com>
+Package: mlady
 Name: M'Lady
-Package: m_lady
-Packager-Version: 1.0.0
-Section: Themes
 Version: 1.0
+Architecture: all
+Maintainer: xSYDx <sidskyl1n3@gmail.com>
+Author: xSYDx <sidkskyl1n3@gmail.com>
+Description: NSFW Theme
+Section: Themes
